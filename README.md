@@ -47,7 +47,11 @@ sentiments have been proven to affect the market considerable, the most challeng
 model.
  In addition, the detection of shorthand spellings, emoticons and sarcastic statements is yet another challenge.
 
- 
+ Previous studies have mostly considered the sentiment of textual data as positive or
+negative [35,48,64]. A few studies have considered mood words to determine the mood of
+a tweet, such as [8,58,65]
+
+
 
 Murshed, B.A.H.; Al-Ariki, H.D.E.; Mallappa, S. Semantic Analysis Techniques using Twitter Datasets on Big Data: Comparative
 Analysis Study. Comput. Syst. Sci. Eng. 2020, 35, 495–512. [CrossRef]
@@ -78,3 +82,16 @@ Sri Lanka, 5–7 December 2019; Volume 1, pp. 192–197
 56- Yahoo Finance - pdf salvo Evaluating Sentiment in Financial News Articles
 Schumaker, R.P.; Zhang, Y.; Huang, C.-N.; Chen, H. Evaluating sentiment in financial news articles. Decis. Support Syst. 2012, 53,
 458–464. [CrossRe
+
+
+66 a importancia do pre processamento dos dados - https://www.sciencedirect.com/science/article/abs/pii/S0306457313000964
+Uysal, A.; Gunal, S. The impact of preprocessing on text classification. Inf. Process. Manag. 2014, 50, 104–112. [CrossRef]
+
+67 - 
+
+The previous studies revealed that there are three significant 
+1) pre-processing steps, i.e., 
+2) feature selection, 
+3) order reduction and the represention of feature
+
+
