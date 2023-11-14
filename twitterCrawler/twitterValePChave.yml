@@ -1,0 +1,29 @@
+Palavras chave para inserir na busca no twitter
+
+Análise de Ações
+Analise de acoes
+Mercado de ações
+Siderurgia & Mineração
+Minério de ferro e cobre
+
+
+# #########################################################################
+#               API Key e API Secret Key 
+############################################################################
+API_Key = 'jd6Du8Nr80i1UZNXxlweUBe5Q'
+API_Key_Secret = 'TDt3yAORrIec1XPXXhIdwykPonwXHVr9oNOCpqSpquNPNQECt2'
+
+################################################################################
+# Bearer Token
+#AAAAAAAAAAAAAAAAAAAAACfrwAAAAAAAi2B8wQy4Jc3nf911pFIjLFaEzgU%3DMNVefI3Bq9CXQqzSOb5RejGkpfQ4h9exOmkjWxeme2iNRMXLKM
+
+Bearer_Token = 'AAAAAAAAAAAAAAAAAAAAACfrwAAAAAAAi2B8wQy4Jc3nf911pFIjLFaEzgU%3DMNVefI3Bq9CXQqzSOb5RejGkpfQ4h9exOmkjWxeme2iNRMXLKM'
+
+# #########################################################################
+#               Access Token and Access Token Secret
+############################################################################
+access_token = '389141505-F0q5bGkIrqWlKYKngI5jWSTyCVD3RUyiuwjh6HmB'
+access_token_secret = 'C6CirffqFpt8E1EWTmWcPa9IqNJO9zLZYGT6vuWFOo3Sv'
+
+
+
